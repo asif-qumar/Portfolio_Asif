@@ -183,7 +183,11 @@ h3{
 }
 @media(max-width:700px ) {
     .row{
-        flex-direction: column;
+        margin-left: -55px;
+    width: 80%;
+    padding: 16px;
+    position: relative;
+    display: list-item;
     }
     
 }
