@@ -310,3 +310,9 @@ h3{
     color: #fff;
     display: block;
 }
+@media(max-width:700px ) {
+    .course-col{
+        width: auto;
+        margin-top: 50px;
+    }
+}
