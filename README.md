@@ -27,26 +27,29 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/asif-qumar/Portfolio_Asif.git
-Navigate to the project directory:
-sh
-cd Portfolio_Asif
-Open index.html in your preferred web browser.
-Contributing
+2. Navigate to the project directory:
+   ```sh
+   cd Portfolio_Asif
+3. Open index.html in your preferred web browser.
+
+## Contributing
 Contributions are welcome! Please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes.
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
-License
+   1.Fork the repository.
+   2.Create a new branch (git checkout -b feature-branch).
+   3.Make your changes.
+   4.Commit your changes (git commit -m 'Add some feature').
+   5.Push to the branch (git push origin feature-branch).
+   6.Open a pull request.
+
+##License
 This project is licensed under the MIT License.
 
-Contact
-Author: Asif Qumar
-GitHub: asif-qumar
-Code
+##Contact
+   Author: Asif Qumar
+   GitHub: asif-qumar
+
+```Code
 
 You can copy the above content and create a `README.md` file in your repository.
 
